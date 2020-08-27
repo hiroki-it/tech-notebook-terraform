@@ -1,0 +1,15 @@
+#============
+# Folder
+#============
+root_module/production/.terraform
+
+#============
+# File
+#============
+security_group/main.tf
+service_role/main.tf
+root_module/production/config.tfvars
+root_module/production/terraform.tfstate
+root_module/production/terraform.tfstate.backup
+root_module/production/terraform.tfstate.lock.info
+root_module/production/container_definition.json
